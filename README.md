@@ -1,5 +1,4 @@
 
-<img src="blob:https://web.whatsapp.com/65ab88b7-4e06-40fc-8d29-4b9ec0dafb93">
 <h1 align="center">Hi 👋, I'm Rima Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
