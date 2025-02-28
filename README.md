@@ -1,4 +1,4 @@
-
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEZz-o04LMGkg/profile-displaybackgroundimage-shrink_350_1400/B4EZVNOgxlH0Ac-/0/1740757405992?e=1746057600&v=beta&t=_-ZEcuT957ZUW3UuhIKfGF8XlUP448Hyez7KVavucjc" alt="Rima Akter"/>
 <h1 align="center">Hi 👋, I'm Rima Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
